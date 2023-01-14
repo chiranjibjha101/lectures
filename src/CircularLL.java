@@ -1,7 +1,6 @@
 public class CircularLL {
     public Node head;
-    int ggs=0;///98798798
-    int full=90;
+    String hello="hello";
 
     public void insert(int value) {
         if (head == null) {
